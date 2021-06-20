@@ -81,6 +81,7 @@ img {
     }
     .top-most {
         grid-template:repeat(5, auto) / repeat(1, 1fr);
+        margin:50px 5px;
     }
 }
 
